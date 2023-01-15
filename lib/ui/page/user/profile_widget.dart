@@ -23,8 +23,7 @@ class ProfileWidget extends StatelessWidget {
                   height: 120,
                   child: CircleAvatar(
                       backgroundColor: Colors.grey.shade200,
-                      backgroundImage:
-                          AssetImage('assets/images/ronaldo.jpg'))),
+                      backgroundImage: AssetImage('assets/images/foto1.jpg'))),
               Positioned(
                   bottom: 0,
                   right: 0,
@@ -41,7 +40,7 @@ class ProfileWidget extends StatelessWidget {
                   style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
                 )),
             Text(
-              'Mahasiswa',
+              'Student',
               style: TextStyle(
                   fontWeight: FontWeight.w500,
                   fontSize: 16,

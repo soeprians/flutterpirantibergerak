@@ -3,9 +3,9 @@ import 'package:flutter/cupertino.dart';
 
 class UserController extends ChangeNotifier {
   final MyUser _user = MyUser(
-      userName: 'Rahmat Supriansyah',
+      userName: 'Akhmad Raihan NF',
       jobTitle: 'Mahasiswa',
-      image: 'assets/images/ronaldo.jpg');
+      image: 'assets/images/foto.jpg');
 
   bool _isLoggedIn = false;
 

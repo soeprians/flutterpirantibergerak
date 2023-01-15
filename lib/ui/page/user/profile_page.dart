@@ -42,7 +42,7 @@ class _ProfilePageState extends State<ProfilePage> {
                         child: CircleAvatar(
                             backgroundColor: Colors.grey.shade200,
                             backgroundImage:
-                                AssetImage('assets/images/ronaldo.jpg'))),
+                                AssetImage('assets/images/fotosaya.jpg'))),
                   ]),
                   const Text(
                     'Anda Belum Login !!',
