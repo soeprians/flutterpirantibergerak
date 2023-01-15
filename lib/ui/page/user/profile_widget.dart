@@ -23,7 +23,7 @@ class ProfileWidget extends StatelessWidget {
                   height: 120,
                   child: CircleAvatar(
                       backgroundColor: Colors.grey.shade200,
-                      backgroundImage: AssetImage('assets/images/foto1.jpg'))),
+                      backgroundImage: AssetImage('assets/images/fotosaya.jpg'))),
               Positioned(
                   bottom: 0,
                   right: 0,
